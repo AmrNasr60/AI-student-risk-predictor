@@ -1,0 +1,8 @@
+[theme]
+# Core dark-theme palette. Streamlit applies these to background, sidebar,
+# inputs, buttons, sliders, progress bars, tabs, and text without any CSS.
+primaryColor = "#3b82f6"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#161b27"
+textColor = "#f9fafb"
+font = "sans serif"
